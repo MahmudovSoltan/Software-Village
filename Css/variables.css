@@ -1,0 +1,21 @@
+:root{
+    /* COLORS*/
+    --textColorDark:rgba(34, 43, 69, 1);
+    --whiteColor: rgba(255, 255, 255, 1);
+    --linearGradient:linear-gradient(104.08deg, #F7B43E -22.59%, #222B45 36.62%, #222B45 98.92%);
+    --blueColor:rgba(35, 166, 240, 1);
+    --hintColor:rgba(143, 155, 179, 1);
+    --lightBlueColor:rgba(219, 241, 255, 1);
+    --whitesmokeColor:rgba(247, 249, 252, 1);
+
+    /*FONT*/
+    --roboto:"Roboto", sans-serif;
+    /*FONT SIZES*/
+    --largSize:60px;
+    --seconSize:48px;
+    --pargraSize:14px;
+    
+ 
+
+
+}
